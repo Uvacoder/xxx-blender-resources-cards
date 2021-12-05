@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
         <div className="flex space-x-6 md:order-2">
           <a
-            href="https://github.com/SaraVieira/blender-resources"
+            href="https://github.com/uvacoder/blender-resources-test"
             className="text-gray-400 hover:text-gray-300"
           >
             <span className="sr-only">GitHub</span>
