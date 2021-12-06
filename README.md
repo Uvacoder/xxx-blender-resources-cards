@@ -1,7 +1,7 @@
 https://github.com/SaraVieira/blender-resources.git
 
 # Blender Resources
-
+-
 WIP for a website, to add resources please add it in the posts folder in mdx format, Danke
 
 ## Runnning the website locally
